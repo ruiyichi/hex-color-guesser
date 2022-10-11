@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hex-color-guesser/static/css/main.9ef5d68d.css",
+    "main.js": "/hex-color-guesser/static/js/main.b5d2e17b.js",
+    "index.html": "/hex-color-guesser/index.html",
+    "main.9ef5d68d.css.map": "/hex-color-guesser/static/css/main.9ef5d68d.css.map",
+    "main.b5d2e17b.js.map": "/hex-color-guesser/static/js/main.b5d2e17b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ef5d68d.css",
+    "static/js/main.b5d2e17b.js"
+  ]
+}

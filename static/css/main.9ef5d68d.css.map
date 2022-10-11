@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9ef5d68d.css","mappings":"AAAA,aACC,sBACA,cACA,2CACA,mBACC","sources":["App.scss"],"sourcesContent":[".colorbutton {\r\n\tbackground-color: none;\r\n\tfont-size: 2em;\r\n\ttransition: background-color 1.25s ease-out;\r\n\t&:hover {\r\n\t\tcursor: pointer;\r\n\t}\r\n}"],"names":[],"sourceRoot":""}
